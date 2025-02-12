@@ -1,0 +1,10 @@
+Save and extract this zip to a folder. REMEMBER where.
+
+In Chrome (or other chrome-based browser):
+
+Hamburger button - Extensions
+Load Unpacked
+Find the folder and choose it.
+
+Now you have the Hide YouTube Fact-Check extension.
+
